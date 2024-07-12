@@ -12,3 +12,9 @@ int main(){
     cout<<f[a];
     return 0;
 }
+/*
+ *This is a boring program.
+ *Don't mind it.
+ * Good luck!      =)
+ *                                                      An unknown Genshin Impact player
+*/
