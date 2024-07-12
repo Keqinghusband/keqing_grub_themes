@@ -1,6 +1,6 @@
 # keqing_grub_themes
 ## 刻晴的GRUB主题包
-仅限Linux系统~~（别问为什么，只有Linux发行版有GRUB）~~\
+### 仅限Linux系统!!!\
 更改GRUB主题的方法：
 ```
 1、解压压缩包
